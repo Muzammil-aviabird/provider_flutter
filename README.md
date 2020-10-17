@@ -1,5 +1,5 @@
-#MyBlog
-A new Flutter application.
+## MyBlog
+MyBlog is multi platform application for students,  They can maintain there porfolio publically. May this is help us for interview in future.
 
 ## Getting Started
 
